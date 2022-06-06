@@ -4,11 +4,11 @@ def printmsg:
 
 # commentary added for add
 def add(a, b):
-	pass
+	return a+b
 
 # commentary added for sub
 def sub(a, b):
-	pass
+	return a-b
 
 # commen added for mult
 def mult(a, b):
@@ -16,4 +16,4 @@ def mult(a, b):
 
 # commentary added for div
 def div(a, b):
-	pass
+	return a/b
