@@ -1,10 +1,6 @@
 """ basic arythmetrics operations class """
 class ArythmetricsOperations:
     """docstring for ."""
-    # commentary added for printmsg
-    def printmsg:
-      print(f"Welcome to github")
-
     # commentary added for add
     def add(a, b):
     	return (a+b)
